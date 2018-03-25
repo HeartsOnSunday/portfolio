@@ -39,6 +39,8 @@
 	font-size: 20px;
 }
 div {
+    padding-bottom: 20px;
+    padding-top: 5px;
 	animation-name: fadeIn;
 	animation-duration: 4s;
 }
